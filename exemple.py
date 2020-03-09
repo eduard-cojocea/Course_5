@@ -1,2 +1,2 @@
-def suma(a, b):
-    return a + b
+def produs(a, b):
+    return a * b
